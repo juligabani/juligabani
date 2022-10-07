@@ -2,7 +2,7 @@
 
  A passionate full stack developer.
 
-Skills in Laravel | VueJS | NodeJS | ReactJS | Payment Integrations
+Skills in Laravel | VueJS | NodeJS | ReactJS 
 
 <!---
 juligabani/juligabani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
